@@ -7,10 +7,10 @@ languages: javascript
 
 After the lesson, you'll be able to:
 + Understand and define key programming concepts
-+ Use the JS console
-+ Understand the console is for testing, does not permanently store code
-+ Use arithmetic operators in console
-+ Use and concatenate strings in console
++ Use the JS console in the browser
++ Understand that the console is for testing and does not permanently store code
++ Use arithmetic operators in the console
++ Use and concatenate strings in the console
 
 ##Why JavaScript?
 
@@ -26,9 +26,7 @@ programming language named Java. The similar name was inspired by marketing
 considerations, rather than good judgment. When JavaScript was being
 introduced, the Java language was being heavily marketed and was gaining
 popularity. Someone thought it was a good idea to try to ride along on this
-success. Now we are stuck with the name
-
-
+success. Now we are stuck with the name!
 
 
 ##Using the Console
@@ -47,7 +45,7 @@ Try typing these lines, pressing enter after each one:
 >2+3
 >2*3
 ```
-Note that your friend the interpreter mostly just repeats what you say, but evaluates mathematical expressions. JavaScript performs basic math as you would expect, with the operators +, -, /, *.  A less familiar operator is %, or modulo. See if you figure out what modulo does.
+Note that the interpreter mostly just repeats what you say, but evaluates mathematical expressions. JavaScript performs basic math as you would expect, with the operators +, -, /, *.  A less familiar operator is %, or modulo. See if you can figure out what modulo does.
 
 ```
 > 10 % 5
@@ -85,7 +83,7 @@ So now  we know we can do math in the JavaScript console. The interpreter will r
 ```
 >"my string"
 ```
-Note that you have to put text inside quotes before the interpreter can understand them. Anything between quotes is called a string.
+Note that you have to put text inside quotes before the interpreter can understand them. Anything between quotes is called a string. Strings can hold numbers, characters, and special characters (for example "K3i$ha!" is a string.)
 
 Now try adding two strings together:
 ```
@@ -110,6 +108,4 @@ Let’s test this. Try entering these three different expressions:
 To rerun a command, you can hit the <kbd>↑</kbd> key on your keyboard and scroll through all of the previous commands. When you find the command you want to rerun, just hit <kbd>enter</kbd>.
 
 
-
-
-Your code and results will only remain in the console until the page is refreshed. These commands are not saved. Think of the console as a place to test ideas quickly, not a place to build something that will endure for the ages.
+Your code and results will only remain in the console until the page is refreshed.These commands are not saved. Think of the console as a place to test ideas quickly, not a place to build something that will endure for the ages.
