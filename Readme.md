@@ -4,6 +4,7 @@ level: 1
 languages: javascript
 ---
 #Intro to Javascript and the Developer Console
+
 After the lesson, you'll be able to:
 + Understand and define key programming concepts
 + Use the JS console
