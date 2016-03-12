@@ -6,7 +6,7 @@ languages: javascript
 #Intro to Javascript and the Developer Console
 
 After the lesson, you'll be able to:
-+ Understand and define key programming concepts
++ Define key programming concepts
 + Use the JS console in the browser
 + Understand that the console is for testing and does not permanently store code
 + Use arithmetic operators in the console
@@ -17,7 +17,7 @@ After the lesson, you'll be able to:
 JavaScript was introduced in 1995 as a way to add interactivity to web pages in
 the Netscape Navigator browser. The language has since been adopted by all
 other major graphical web browsers. JavaScript has made modern web applications
-possible — applications with which a user can interact with, without doing a
+possible — applications with which a user can interact without doing a
 page reload for every action. JavaScript is also used in more traditional
 websites to provide various forms of interactivity and cleverness.
 
@@ -33,7 +33,7 @@ success. Now we are stuck with the name!
 
 You can experiment with Javascript in the Javascript Console. The console is a way to test small bits of Javascript code.
 
-To get to the console, open a web broswer (Chrome for example), and navigate to any webpage.  Press <kbd>command</kbd> + <kbd>option</kbd> + <kbd>J</kbd>
+To get to the console, open a web browser (Chrome for example), and navigate to any webpage.  Press <kbd>command</kbd> + <kbd>option</kbd> + <kbd>J</kbd>
 
 This gives you an area down at the bottom of the screen, called the console. The ">" symbol is called the prompt, where you can type JavaScript code.
 
@@ -78,7 +78,7 @@ Here are some other mathematical operators:
 
 
 ##String Interpretation
-So now  we know we can do math in the JavaScript console. The interpreter will react to pieces of text, too. In programming bits of text are called "strings".  
+So now  we know we can do math in the JavaScript console. The interpreter will react to pieces of text too. In programming bits of text are called "strings".  
 
 ```
 >"my string"
